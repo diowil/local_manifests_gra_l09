@@ -3,7 +3,7 @@
 <manifest>
  
   <!-- Files to build the rom  -->
-  <project name="diowil/device_m2_a01w" path="device/huawei/hwliszt" revision="cm-13.0-ZNH5Y" remote="github" />
+  <project name="diowil/device_m2_a01w" path="device/huawei/liszt" revision="cm-13.0-ZNH5Y" remote="github" />
   <project name="diowil/kernel" path="kernel/huawei/kernel" revision="cm-13-v3.10.86-ndk" remote="github" />
   
   <!-- TWRP -->
