@@ -10,9 +10,10 @@
   <!-- TWRP -->
   <project name="diowil/team_win_recovery_project" path="bootable/recovery-twrp" revision="android-6.0" remote="github" />
 
-  <!-- BusyBox 
-  <project name="diowil/busybox" path="external/busybox" remote="github" revision="cm-13.0-ZNH5Y" />  
--->
+  <!-- BusyBox -->
+  <project name="mirror/busybox" path="external/busybox" remote="github" revision="master" />  
+ 
+
   <!-- Opensource NFC -->
 
   
