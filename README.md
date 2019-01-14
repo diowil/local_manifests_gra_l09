@@ -5,7 +5,7 @@
 - repo sync
 - repo init -b cm-14.1
 - git clone -b 14.1 gra_l09_local_manifests --> .repo/local_manifests
-- git clone git://github.com/diowil/local_manifests_gra_l09.git -b cm-14.1 .repo/local_manifests
+- git clone git://github.com/diowil/local_manifests_gra_l09.git -b lineage-14.1 .repo/local_manifests
 - repo sync --force-sync (use python 2.7!)
 
 
