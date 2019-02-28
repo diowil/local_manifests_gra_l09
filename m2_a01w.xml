@@ -4,7 +4,7 @@
 <manifest>
  
   <!-- Files to build the rom  -->
-  <project name="diowil/device_gra_l09" path="device/huawei/hwgra" revision="lineage-14.1" remote="github" />
+  <project name="diowil/device_m2_a01w" path="device/huawei/hwliszt" revision="lineage-14.1" remote="github" />
   <project name="diowil/kernel" path="kernel/huawei/kernel" revision="lineage-14.1" remote="github" />
   
   <!-- TWRP -->
