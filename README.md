@@ -1,4 +1,4 @@
-# Huawei Ascend P8 Lineage Manifest
+# Huawei MediaPad M2-A01W Lineage Manifest
 
 ## Instructions
 - repo init -u git://github.com/LineageOS/android.git -b cm-14.1
